@@ -10,11 +10,14 @@ installer is a FreeDOS compressed image in a .iso
 There are 2 options:
 
 Option A)
+
 Burn .iso to a CD-R or CD-RW, will Boot OK.
+
+Remove SSDs Before doing the Upgrade.
 
 Option B) 
 
-Download Rufus,
+Download Rufus rufus.ie
 open .iso with WinRAR,
 Extract .img file,
 Burn IMG file to empty USB pen drive.
