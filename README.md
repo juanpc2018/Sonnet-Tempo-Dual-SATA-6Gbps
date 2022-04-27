@@ -82,18 +82,30 @@ Feels much faster in Windows8.1x64
 
 No driver install needed.
 
-With Original FW had a strange Hiccup.
+With Original FW had a strange Hiccup with Crucial Tech MX500 2TB SSD.
 
 Why Sonnet Tempo Dual SATA PCIe card?
-its a poor man Dual U.2
+a poor man Dual U.2
 
-8TB QLC SSD from Samsung or Micron are almost half the $ of 8TB M.2
-Dual M.2 is More $$ than Dual SATA.
-The only advantage of M.2 is that there is 8xM.2 PCIe cards, but are very $$$$... 
+8TB QLC SSD from Samsung or Micron or Intel are almost half the price$ of 8TB M.2 NVMe
+Dual M.2 is Faster. but... also More $$ than Dual SATA.
+The advantage of M.2 PCIe is that there are 8xM.2 PCIe cards, but are $1k usd. 
 HighPoint PCIe v4.0, PCIe v3.0, 
 Sonnet 4xM.2 PCIe,
 OWC 8xM.2 dont have Hardware RAID Controller, thats why the lower price.
+Adwitsh 4xM2,
+Startech or Abraconn 2xM.2 PCIe
 
-2xSSD 6Gbps 8TB is the cheapest option for Solid State drive with 16TB total capacity.
-M.2 tech is a lot Faster but price is double or more for same 16TB.
+2xSSD 6Gbps 8TB each. is the cheapest option for Solid State drive storage, with 16TB capacity.
+M.2 is Faster but price is double or more for the same 16TB.
+for storage near 500MB/s is good enough.
+Large 18TB HDD Seagate Exos are 250MB/s for lower price.
 U.2 is Top of the Line, Cutting Edge Technology, High End $$$.
+
+IF drives are Turned-On 24/7, SSD is much more power efficient.
+vs. 3.5" Mechanic HDD.
+HDD require Spin-Down every 30min,
+and each Spin-Up requires 12v 3A-5A Peak.
+Multiple HHDs when Spin-Up all at same time its a very Big Peak load for the PSU.
+Large HDD arrays require 80 Plus Titanium to be cost effective.
+https://en.wikipedia.org/wiki/80_Plus
