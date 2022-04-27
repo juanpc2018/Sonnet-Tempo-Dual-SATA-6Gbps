@@ -1,5 +1,5 @@
 # Sonnet-Tempo-Dual-SATA-6Gbps
-FW Upgrade procedure 
+FW Upgrade procedure for:  
 https://www.sonnettech.com/product/tempossd.html
 
 Original Firmware 2019:
@@ -8,8 +8,7 @@ https://www.sonnettech.com/support/downloads/software/tempossdfwupdater100.zip
 installer is a FreeDOS compressed image in a .iso
 There are 2 options:
 Option A)
-Burn .iso to a CD-R or CD-RW
-Boots OK.
+Burn .iso to a CD-R or CD-RW, will Boot OK.
 
 Option B) 
 Download Rufus,
@@ -23,19 +22,29 @@ create another Empty Bootable FreeDOS USB pen drive.
 move / copy files from Non-Bootable to Bootable USB.
 
 Original Firmware:
+
 Asmedia 106x SATA Controller Ver 1.50 AHCI Mode
+
 Copyright (C) Asmedia Technologies, Inc. All Right reserved.
+
 S.M.A.R.T. Supported
+
 Using PCIE Gen 2 x2
+
 Firmware version: 160120_10_4E_01
 
 ------
 
 Latest Upgrade Firmware i could find:
+
 Asmedia 106x SATA Controller Ver 1.80 AHCI Mode
+
 Copyright (C) Asmedia Technologies, Inc. All Right reserved.
+
 S.M.A.R.T. Supported
+
 Using PCIE Gen 2 x2
+
 Firmware version: 210906_00_76_01
 
 https://www.station-drivers.com/index.php/en/outils/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Firmwares/Asmedia-ASM-106x-R-Sata-6G-Controller-Firmware-Version-210906.00.76.01/lang,en-gb/
