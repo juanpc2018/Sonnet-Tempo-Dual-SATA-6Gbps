@@ -92,9 +92,9 @@ Dual M.2 is Faster. but... also More $$ than Dual SATA.
 The advantage of M.2 PCIe is that there are 8xM.2 PCIe cards, but are $1k usd. 
 HighPoint PCIe v4.0, PCIe v3.0, 
 Sonnet 4xM.2 PCIe,
-OWC 8xM.2 dont have Hardware RAID Controller, thats why the lower price.
-Adwitsh 4xM2,
-Startech or Abraconn 2xM.2 PCIe
+Adwits 4xM2,
+Startech or Ableconn 2xM.2 PCIe
+OWC 8xM.2 dont have Hardware RAID Controller, thats why has lower price.
 
 2xSSD 6Gbps 8TB each. is the cheapest option for Solid State drive storage, with 16TB capacity.
 M.2 is Faster but price is double or more for the same 16TB.
