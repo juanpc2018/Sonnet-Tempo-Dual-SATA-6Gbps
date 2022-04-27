@@ -106,7 +106,7 @@ IF drives are Turned-On 24/7, SSD is much more power efficient.
 vs. 3.5" Mechanic HDD.
 HDD require Spin-Down every 30min,
 and each Spin-Up requires 12v 3A-5A Peak.
-Multiple HHDs when Spin-Up all at same time its a very Big Peak load for the PSU.
+Multiple HDDs when Spin-Up all at same time its a very Big Peak load for the PSU.
 Large HDD arrays require 80 Plus Titanium to be cost effective.
 https://en.wikipedia.org/wiki/80_Plus
 
