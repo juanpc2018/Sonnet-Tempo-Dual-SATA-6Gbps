@@ -10,7 +10,6 @@ installer is a FreeDOS compressed image in a .iso
 There are 2 options:
 
 Option A)
-
 Burn .iso to a CD-R or CD-RW, will Boot OK.
 
 Option B) 
