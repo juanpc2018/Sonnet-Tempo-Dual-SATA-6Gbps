@@ -6,11 +6,15 @@ Original Firmware 2019:
 https://www.sonnettech.com/support/downloads/software/tempossdfwupdater100.zip
 
 installer is a FreeDOS compressed image in a .iso
+
 There are 2 options:
+
 Option A)
+
 Burn .iso to a CD-R or CD-RW, will Boot OK.
 
 Option B) 
+
 Download Rufus,
 open .iso with WinRAR,
 Extract .img file,
