@@ -109,3 +109,5 @@ and each Spin-Up requires 12v 3A-5A Peak.
 Multiple HHDs when Spin-Up all at same time its a very Big Peak load for the PSU.
 Large HDD arrays require 80 Plus Titanium to be cost effective.
 https://en.wikipedia.org/wiki/80_Plus
+
+IF you spin-down / up too often, will wear and damage everything, the PSU, the HDD motor, power cables if does Not have enough AWG, etc...
