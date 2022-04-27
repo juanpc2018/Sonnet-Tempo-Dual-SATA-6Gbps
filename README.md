@@ -17,7 +17,7 @@ Remove SSDs Before doing the Upgrade.
 
 Option B) 
 
-Download Rufus rufus.ie
+Download rufus.ie
 open .iso with WinRAR,
 Extract .img file,
 Burn IMG file to empty USB pen drive.
