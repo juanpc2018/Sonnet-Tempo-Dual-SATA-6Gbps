@@ -96,9 +96,9 @@ Adwits 4xM2,
 Startech or Ableconn 2xM.2 PCIe
 OWC 8xM.2 dont have Hardware RAID Controller, thats why has lower price.
 
-2xSSD 6Gbps 8TB each. is the cheapest option for Solid State drive storage, with 16TB capacity.
-M.2 is Faster but price is double or more for the same 16TB.
-for storage near 500MB/s is good enough.
+2xSSD 6Gbps 8TB each, is the cheapest option for Solid State drive storage, with 16TB capacity.
+M.2 is Faster but current price is double or more for the same 16TB QLC.
+for storage: near 500MB/s is good enough.
 Large 18TB HDD Seagate Exos are 250MB/s for lower price.
 U.2 is Top of the Line, Cutting Edge Technology, High End $$$.
 
