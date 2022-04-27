@@ -27,7 +27,7 @@ after reboot will allow to see the files.
 create another Empty Bootable FreeDOS USB pen drive.
 move / copy files from Non-Bootable to Bootable USB.
 
-Original Firmware 2019:
+Original Firmware 2019 displayed on a PC, Not displayed on a MacPro5,1 Apple Boot, maybe in Verbose Mode Boot:
 
 Asmedia 106x SATA Controller Ver 1.50 AHCI Mode
 
