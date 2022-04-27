@@ -21,7 +21,7 @@ after reboot will allow to see the files.
 create another Empty Bootable FreeDOS USB pen drive.
 move / copy files from Non-Bootable to Bootable USB.
 
-Original Firmware:
+Original Firmware 2019:
 
 Asmedia 106x SATA Controller Ver 1.50 AHCI Mode
 
@@ -35,7 +35,7 @@ Firmware version: 160120_10_4E_01
 
 ------
 
-Latest Upgrade Firmware i could find:
+Latest Firmware i could find 2021:
 
 Asmedia 106x SATA Controller Ver 1.80 AHCI Mode
 
