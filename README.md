@@ -71,10 +71,10 @@ type AHCI.bat
 or 
 spiupd.exe /U 0076_01.ROM
 
-WARNING 1:
+WARNING #1:
 Upgrade cannot be done in Windows.
 
-WARNING 2:
+WARNING #2:
 Unscrew & Remove SSDs BEFORE doing the FW Upgrade.
 
 Upgrade works ok so far.
