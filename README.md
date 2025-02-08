@@ -33,85 +33,87 @@ move / copy files from Non-Bootable to Bootable USB. </br>
 
 Original Firmware 2019 displayed on a PC, </br>
 Not displayed on a MacPro5,1 Apple Boot, maybe in Verbose Mode Boot. </br>
-´´´
+```
 Asmedia 106x SATA Controller Ver 1.50 AHCI Mode </br>
 Copyright (C) Asmedia Technologies, Inc. All Right reserved. </br>
 S.M.A.R.T. Supported </br>
 Using PCIE Gen 2 x2 </br>
 Firmware version: 160120_10_4E_01 </br>
-´´´
+```
 
 ------
 
 Firmware 2021: </br>
-´´´
+```
 Asmedia 106x SATA Controller Ver 1.80 AHCI Mode </br>
 Copyright (C) Asmedia Technologies, Inc. All Right reserved. </br>
 S.M.A.R.T. Supported </br>
 Using PCIE Gen 2 x2 </br>
 Firmware version: 210906_00_76_01 </br>
-´´´
+```
+
 -----
 
-https://www.station-drivers.com/index.php/en/outils/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Firmwares/Asmedia-ASM-106x-R-Sata-6G-Controller-Firmware-Version-210906.00.76.01/lang,en-gb/
+https://www.station-drivers.com/index.php/en/outils/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Firmwares/Asmedia-ASM-106x-R-Sata-6G-Controller-Firmware-Version-210906.00.76.01/lang,en-gb/ </br>
 
-RAID Manager:
-https://www.station-drivers.com/index.php/en/driverss/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Utilities/lang,en-gb/
+RAID Manager: </br>
+https://www.station-drivers.com/index.php/en/driverss/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Utilities/lang,en-gb/ </br>
 
-Drivers:
-https://www.station-drivers.com/index.php/en/outils/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Drivers/Asmedia-ASM-1x6x-Sata-6G-controller-Drivers-Version-3.3.5.0-WHQL/lang,en-gb/
+Drivers: </br>
+https://www.station-drivers.com/index.php/en/outils/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Drivers/Asmedia-ASM-1x6x-Sata-6G-controller-Drivers-Version-3.3.5.0-WHQL/lang,en-gb/ </br>
 
-Asmedia Station-Drivers page:
-https://www.station-drivers.com/index.php/en/driverss/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/lang,en-gb/
+Asmedia Station-Drivers page: </br>
+https://www.station-drivers.com/index.php/en/driverss/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/lang,en-gb/ </br>
 
-Option C)
-Extract the 210906.zip
-copy files to Bootable FreeDOS USB pen drive,
-type AHCI.bat
-or 
-spiupd.exe /U 0076_01.ROM
+Option D) </br>
+Extract the 210906.zip </br>
+copy files to Bootable FreeDOS USB pen drive, </br>
+type AHCI.bat </br>
+or  </br>
+> spiupd.exe /U 0076_01.ROM </br>
 
-WARNING #1:
-Upgrade cannot be done in Windows.
+### WARNING #1: </br>
+Upgrade cannot be done in Windows. </br>
 
-WARNING #2:
-Unscrew & Remove SSDs BEFORE doing the FW Upgrade.
+### WARNING #2: </br>
+Unscrew & Remove SSDs BEFORE doing the FW Upgrade. </br>
 
-Upgrade works ok so far.
-Feels much faster in Windows8.1x64
+### WARNING #3: </br>
+Booting UEFI-CSM OS MBR, sometimes works, most of the times do Not. </br>
 
-No driver install needed.
+Upgrade works so far. </br>
+Feels much faster in Windows8.1x64 </br>
 
-With Original FW had a strange Hiccup with Crucial Tech MX500 2TB SSD.
+No driver install needed. </br>
+With Original FW had a strange Hiccup with Crucial Tech MX500 2TB SSD. </br>
 
-Why Sonnet Tempo Dual SATA PCIe card?
-a poor man Dual U.2
+Why Sonnet Tempo Dual SATA PCIe card? </br>
+economic version of the Dual U.2 </br>
 
-8TB QLC SSD from Samsung or Micron or Intel are almost half the price$ of 8TB M.2 NVMe
-Dual M.2 is Faster. but... also More $$ than Dual SATA.
-The advantage of M.2 PCIe is that there are 8xM.2 PCIe cards, but are $1k usd. 
-HighPoint PCIe v4.0, PCIe v3.0, 
-Sonnet 4xM.2 PCIe,
-Adwits 4xM2,
-Startech or Ableconn 2xM.2 PCIe
-OWC 8xM.2 dont have Hardware RAID Controller, thats why has lower price.
+8TB QLC SSD from Samsung or Micron or Intel are almost half the price$ of 8TB M.2 NVMe </br>
+Dual M.2 is Faster. but... also More $$ than Dual SATA. </br>
+The advantage of M.2 PCIe is that there are 8xM.2 PCIe cards, but are $1k usd. </br>
+HighPoint PCIe v4.0, PCIe v3.0,  </br>
+Sonnet 4xM.2 PCIe, </br>
+Adwits 4xM2, </br>
+Startech or Ableconn 2xM.2 PCIe </br>
+OWC 8xM.2 dont have Hardware RAID Controller, thats why has lower price. </br>
 
-2xSSD 6Gbps 8TB each, is the cheapest option for Solid State drive storage, with 16TB capacity.
-M.2 is Faster but current price is double or more for the same 16TB QLC.
-for storage: near 500MB/s is good enough.
-Large 18TB HDD Seagate Exos are 250MB/s for lower price.
-U.2 is Top of the Line, Cutting Edge Technology, High End $$$.
+2xSSD 6Gbps 8TB each, is the cheapest option for Solid State drive storage, with 16TB capacity. </br>
+M.2 is Faster but current price is double or more for the same 16TB QLC. </br>
+for storage: near 500MB/s is good enough. </br>
+Large 18TB HDD Seagate Exos are 250MB/s for lower price. </br>
+U.2 is Top of the Line, Cutting Edge Technology, High End $$$. </br>
 
-IF drives are Turned-On 24/7, SSD is much more power efficient.
-vs. 3.5" Mechanic HDD.
-HDD require Spin-Down every 30min,
-and each Spin-Up requires 12v 3A-5A Peak.
-Multiple HDDs when Spin-Up all at same time its a very Big Peak load for the PSU.
-Large HDD arrays require 80 Plus Titanium to be cost effective.
-https://en.wikipedia.org/wiki/80_Plus
+IF drives are Turned-On 24/7, SSD is much more power efficient. </br>
+vs. 3.5" Mechanic HDD. </br>
+HDD require Spin-Down every 30min, </br>
+and each Spin-Up requires 12v 3A-5A Peak. </br>
+Multiple HDDs when Spin-Up all at same time its a very Big Peak load for the PSU. </br>
+Large HDD arrays require 80 Plus Titanium to be cost effective. </br>
+https://en.wikipedia.org/wiki/80_Plus </br>
 
-IF you spin-down / up too often, will wear and damage everything, the PSU, the HDD motor, power cables if does Not have enough AWG, etc...
+IF you spin-down / up too often, will wear and damage everything, the PSU, the HDD motor, power cables if does Not have enough AWG, etc... </br>
+IF you dont spin down HDDs enough time, bearings will wear & fail sooner, will overheat, electronics will fail, etc... </br>
 
-IF you dont spin down HDDs enough time, bearings will wear & fail sooner, will overheat, electronics will fail, etc...
-
-All require proper cooling.
+All require proper cooling. </br>
