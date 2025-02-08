@@ -55,6 +55,17 @@ Firmware version: 210906_00_76_01 </br>
 
 -----
 
+Firmware 2022: </br>
+```
+Asmedia 106x SATA Controller Ver 1.80 AHCI Mode </br>
+Copyright (C) Asmedia Technologies, Inc. All Right reserved. </br>
+S.M.A.R.T. Supported </br>
+Using PCIE Gen 2 x2 </br>
+Firmware version: 220916_00_00_00 </br>
+```
+
+-----
+
 https://www.station-drivers.com/index.php/en/outils/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Firmwares/Asmedia-ASM-106x-R-Sata-6G-Controller-Firmware-Version-210906.00.76.01/lang,en-gb/ </br>
 
 RAID Manager: </br>
