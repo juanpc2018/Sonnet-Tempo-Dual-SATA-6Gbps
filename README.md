@@ -1,57 +1,57 @@
 # Sonnet-Tempo-Dual-SATA-6Gbps
 FW Upgrade procedure for:  
 https://www.sonnettech.com/product/tempossd.html
+http://ableconn.com/support_1.php?gid=120
+https://www.startech.com/en-us/cards-adapters/10p6g-pcie-sata-card
 
-Original Firmware 2019:
-https://www.sonnettech.com/support/downloads/software/tempossdfwupdater100.zip
+Latest Firmware [220916_00_00_00 A23](http://ableconn.com/upload/ASM1062-FW_220916-RE1062.A23.zip)
+[Original Firmware 160120... (2019)](https://www.sonnettech.com/support/downloads/software/tempossdfwupdater100.zip) </br>
+older 190... Firmware had problems booting with Dosdude Catalina installer, when SSD was installed in 1 machine and moved to another, </br>
+installed in: MacMini 2014 and SSD moved to a MacPro 5,1 2010, with latest FW 144.0.0.0.0 </br>
 
-installer is a FreeDOS compressed image in a .iso
+Original installer is a FreeDOS compressed image in a .iso </br>
 
-There are 2 options:
+There are 2 options: </br>
 
-Option A)
+Option A) </br>
+Burn .iso to a CD-R or CD-RW, will Boot OK. </br>
+Remove SSDs Before doing the Upgrade. </br>
 
-Burn .iso to a CD-R or CD-RW, will Boot OK.
+Option B)  </br>
+Download [rufus.ie](https://rufus.ie) </br>
+open .iso with WinRAR </br>
+Extract .img file, </br>
+Burn IMG file to empty USB pen drive. </br>
+USB Pen Drive will be NOT Bootable. </br>
+after reboot will allow to see the files. </br>
 
-Remove SSDs Before doing the Upgrade.
+Option C)  </br>
+create an Empty Bootable DOS USB pen drive. </br>
+Rufus creates a Windows Millenium DOS disk </br>
+if want FreeDos or MS-DOS 6.22 requires to [download .img](https://www.allbootdisks.com/download/dos.html)  </br>
+move / copy files from Non-Bootable to Bootable USB. </br>
 
-Option B) 
-
-Download rufus.ie
-open .iso with WinRAR,
-Extract .img file,
-Burn IMG file to empty USB pen drive.
-USB Pen Drive will be NOT Bootable.
-after reboot will allow to see the files.
-
-create another Empty Bootable FreeDOS USB pen drive.
-move / copy files from Non-Bootable to Bootable USB.
-
-Original Firmware 2019 displayed on a PC, Not displayed on a MacPro5,1 Apple Boot, maybe in Verbose Mode Boot:
-
-Asmedia 106x SATA Controller Ver 1.50 AHCI Mode
-
-Copyright (C) Asmedia Technologies, Inc. All Right reserved.
-
-S.M.A.R.T. Supported
-
-Using PCIE Gen 2 x2
-
-Firmware version: 160120_10_4E_01
+Original Firmware 2019 displayed on a PC, </br>
+Not displayed on a MacPro5,1 Apple Boot, maybe in Verbose Mode Boot. </br>
+´´´
+Asmedia 106x SATA Controller Ver 1.50 AHCI Mode </br>
+Copyright (C) Asmedia Technologies, Inc. All Right reserved. </br>
+S.M.A.R.T. Supported </br>
+Using PCIE Gen 2 x2 </br>
+Firmware version: 160120_10_4E_01 </br>
+´´´
 
 ------
 
-Latest Firmware i could find 2021:
-
-Asmedia 106x SATA Controller Ver 1.80 AHCI Mode
-
-Copyright (C) Asmedia Technologies, Inc. All Right reserved.
-
-S.M.A.R.T. Supported
-
-Using PCIE Gen 2 x2
-
-Firmware version: 210906_00_76_01
+Firmware 2021: </br>
+´´´
+Asmedia 106x SATA Controller Ver 1.80 AHCI Mode </br>
+Copyright (C) Asmedia Technologies, Inc. All Right reserved. </br>
+S.M.A.R.T. Supported </br>
+Using PCIE Gen 2 x2 </br>
+Firmware version: 210906_00_76_01 </br>
+´´´
+-----
 
 https://www.station-drivers.com/index.php/en/outils/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Firmwares/Asmedia-ASM-106x-R-Sata-6G-Controller-Firmware-Version-210906.00.76.01/lang,en-gb/
 
