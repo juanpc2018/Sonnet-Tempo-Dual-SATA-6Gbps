@@ -1,4 +1,4 @@
-# Sonnet-Tempo-Dual-SATA-6Gbps </br>
+# Sonnet Tempo Dual SATA 6Gbps </br>
 
 FW Upgrade procedure for:  </br>
 https://www.sonnettech.com/product/tempossd.html </br>
