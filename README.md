@@ -5,8 +5,8 @@ https://www.sonnettech.com/product/tempossd.html </br>
 http://ableconn.com/support_1.php?gid=120 </br>
 https://www.startech.com/en-us/cards-adapters/10p6g-pcie-sata-card </br>
 
-Latest Firmware [220916_00_00_00 A23](http://ableconn.com/upload/ASM1062-FW_220916-RE1062.A23.zip) </br>
-Original Firmware [160120... (2016)](https://www.sonnettech.com/support/downloads/software/tempossdfwupdater100.zip) </br>
+Latest Firmware: [220916_00_00_00 A23](http://ableconn.com/upload/ASM1062-FW_220916-RE1062.A23.zip) </br>
+Original Firmware: [160120_.._.. (2016)](https://www.sonnettech.com/support/downloads/software/tempossdfwupdater100.zip) </br>
 older 190... had problems booting with Dosdude OSX Catalina installer, when SSD was installed in 1 machine and moved to another </br>
 installed in: MacMini 2014 and SSD moved to a MacPro 5,1 2010 with latest FW 144.0.0.0.0 </br>
 Original FW had a strange Hiccup with Crucial MX500 2TB SSD. </br>
