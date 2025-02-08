@@ -66,12 +66,13 @@ Firmware version: 220916_00_00_00 </br>
 
 -----
 
-https://www.station-drivers.com/index.php/en/outils/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Firmwares/Asmedia-ASM-106x-R-Sata-6G-Controller-Firmware-Version-210906.00.76.01/lang,en-gb/ </br>
+Station-Drivers:  </br>
+https://www.station-drivers.com/index.php/en/component/remository/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/lang,en-gb/ </br>
 
 RAID Manager: </br>
 https://www.station-drivers.com/index.php/en/driverss/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Utilities/lang,en-gb/ </br>
 
-Drivers: </br>
+Drivers 3.3.5.0 for Windows </br>
 https://www.station-drivers.com/index.php/en/outils/Drivers/Asmedia/ASM-106x-Sata-6G-Controller/Drivers/Asmedia-ASM-1x6x-Sata-6G-controller-Drivers-Version-3.3.5.0-WHQL/lang,en-gb/ </br>
 
 Asmedia Station-Drivers page: </br>
