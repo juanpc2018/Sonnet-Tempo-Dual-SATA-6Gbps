@@ -9,8 +9,13 @@ Latest Firmware [220916_00_00_00 A23](http://ableconn.com/upload/ASM1062-FW_2209
 Original Firmware [160120... (2016)](https://www.sonnettech.com/support/downloads/software/tempossdfwupdater100.zip) </br>
 older 190... had problems booting with Dosdude OSX Catalina installer, when SSD was installed in 1 machine and moved to another </br>
 installed in: MacMini 2014 and SSD moved to a MacPro 5,1 2010 with latest FW 144.0.0.0.0 </br>
+Original FW had a strange Hiccup with Crucial MX500 2TB SSD. </br>
+Original installer is a FreeDOS compressed .img in a .iso </br>
 
-Original installer is a FreeDOS compressed image in a .iso </br>
+Upgrade works so far. </br>
+Feels much faster in Windows8.1x64 </br>
+8MB benchmark in [HDTune Pro 5.75](https://www.hdtune.com/download.html) Read much better / faster. </br>
+
 
 There are Options: </br>
 
@@ -94,11 +99,7 @@ Unscrew & Remove SSDs BEFORE doing the FW Upgrade. </br>
 ### WARNING #3: </br>
 Booting UEFI-CSM OS MBR, sometimes works, most of the times do Not. </br>
 
-Upgrade works so far. </br>
-Feels much faster in Windows8.1x64 </br>
-
 No driver install needed. </br>
-With Original FW had a strange Hiccup with Crucial Tech MX500 2TB SSD. </br>
 
 Why Sonnet Tempo Dual SATA PCIe card? </br>
 economic version of the Dual U.2 </br>
