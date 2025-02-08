@@ -34,7 +34,7 @@ Option C)  </br>
 create an Empty Bootable DOS USB pen drive. </br>
 Rufus creates a Windows Millenium DOS disk </br>
 if want FreeDos or MS-DOS 6.22 requires to [download .img](https://www.allbootdisks.com/download/dos.html)  </br>
-move / copy files from Non-Bootable to Bootable USB. </br>
+move / copy files to Bootable USB. </br>
 
 Original Firmware 2016 displayed on a PC, </br>
 Not displayed on a MacPro5,1 Apple Boot, maybe in Verbose Mode. </br>
