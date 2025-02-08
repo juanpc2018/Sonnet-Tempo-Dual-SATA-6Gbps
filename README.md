@@ -1,17 +1,18 @@
-# Sonnet-Tempo-Dual-SATA-6Gbps
-FW Upgrade procedure for:  
-https://www.sonnettech.com/product/tempossd.html
-http://ableconn.com/support_1.php?gid=120
-https://www.startech.com/en-us/cards-adapters/10p6g-pcie-sata-card
+# Sonnet-Tempo-Dual-SATA-6Gbps </br>
+
+FW Upgrade procedure for:  </br>
+https://www.sonnettech.com/product/tempossd.html </br>
+http://ableconn.com/support_1.php?gid=120 </br>
+https://www.startech.com/en-us/cards-adapters/10p6g-pcie-sata-card </br>
 
 Latest Firmware [220916_00_00_00 A23](http://ableconn.com/upload/ASM1062-FW_220916-RE1062.A23.zip)
 [Original Firmware 160120... (2019)](https://www.sonnettech.com/support/downloads/software/tempossdfwupdater100.zip) </br>
-older 190... Firmware had problems booting with Dosdude Catalina installer, when SSD was installed in 1 machine and moved to another, </br>
-installed in: MacMini 2014 and SSD moved to a MacPro 5,1 2010, with latest FW 144.0.0.0.0 </br>
+older 190... Firmware had problems booting with Dosdude OSX Catalina installer, when SSD was installed in 1 machine and moved to another </br>
+installed in: MacMini 2014 and SSD moved to a MacPro 5,1 2010 with latest FW 144.0.0.0.0 </br>
 
 Original installer is a FreeDOS compressed image in a .iso </br>
 
-There are 2 options: </br>
+There are Options: </br>
 
 Option A) </br>
 Burn .iso to a CD-R or CD-RW, will Boot OK. </br>
