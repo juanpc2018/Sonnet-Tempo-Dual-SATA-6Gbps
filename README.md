@@ -24,11 +24,10 @@ Burn .iso to a CD-R or CD-RW, will Boot OK. </br>
 Remove SSDs Before doing the Upgrade. </br>
 
 Option B)  </br>
-Download [rufus.ie](https://rufus.ie) </br>
 open .iso with WinRAR </br>
 Extract .img file, </br>
-Burn IMG file to empty USB pen drive. </br>
-USB Pen Drive will be NOT Bootable. </br>
+Download [rufus.ie](https://rufus.ie) </br>
+Burn .img to empty USB pen drive. </br>
 after reboot will allow to see the files. </br>
 
 Option C)  </br>
