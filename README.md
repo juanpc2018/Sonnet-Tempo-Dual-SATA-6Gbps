@@ -39,33 +39,33 @@ move / copy files to Bootable USB. </br>
 Original Firmware 2016 displayed on a PC, </br>
 Not displayed on a MacPro5,1 Apple Boot, maybe in Verbose Mode. </br>
 ```
-Asmedia 106x SATA Controller Ver 1.50 AHCI Mode </br>
-Copyright (C) Asmedia Technologies, Inc. All Right reserved. </br>
-S.M.A.R.T. Supported </br>
-Using PCIE Gen 2 x2 </br>
-Firmware version: 160120_10_4E_01 </br>
+Asmedia 106x SATA Controller Ver 1.50 AHCI Mode 
+Copyright (C) Asmedia Technologies, Inc. All Rigt reserved.
+S.M.A.R.T. Supported
+Using PCIE Gen 2 x2
+Firmware version: 160120_10_4E_01
 ```
 
 ------
 
 Firmware 2021: </br>
 ```
-Asmedia 106x SATA Controller Ver 1.80 AHCI Mode </br>
-Copyright (C) Asmedia Technologies, Inc. All Right reserved. </br>
-S.M.A.R.T. Supported </br>
-Using PCIE Gen 2 x2 </br>
-Firmware version: 210906_00_76_01 </br>
+Asmedia 106x SATA Controller Ver 1.80 AHCI Mode
+Copyright (C) Asmedia Technologies, Inc. All Right reserved.
+S.M.A.R.T. Supported
+Using PCIE Gen 2 x2
+Firmware version: 210906_00_76_01
 ```
 
 -----
 
 Firmware 2022: </br>
 ```
-Asmedia 106x SATA Controller Ver 1.80 AHCI Mode </br>
-Copyright (C) Asmedia Technologies, Inc. All Right reserved. </br>
-S.M.A.R.T. Supported </br>
-Using PCIE Gen 2 x2 </br>
-Firmware version: 220916_00_00_00 </br>
+Asmedia 106x SATA Controller Ver 1.80 AHCI Mode
+Copyright (C) Asmedia Technologies, Inc. All Right reserved.
+S.M.A.R.T. Supported
+Using PCIE Gen 2 x2
+Firmware version: 220916_00_00_00
 ```
 
 -----
