@@ -32,8 +32,8 @@ Rufus creates a Windows Millenium DOS disk </br>
 if want FreeDos or MS-DOS 6.22 requires to [download .img](https://www.allbootdisks.com/download/dos.html)  </br>
 move / copy files from Non-Bootable to Bootable USB. </br>
 
-Original Firmware 2019 displayed on a PC, </br>
-Not displayed on a MacPro5,1 Apple Boot, maybe in Verbose Mode Boot. </br>
+Original Firmware 2016 displayed on a PC, </br>
+Not displayed on a MacPro5,1 Apple Boot, maybe in Verbose Mode. </br>
 ```
 Asmedia 106x SATA Controller Ver 1.50 AHCI Mode </br>
 Copyright (C) Asmedia Technologies, Inc. All Right reserved. </br>
