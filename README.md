@@ -121,10 +121,9 @@ U.2 is Top of the Line, Cutting Edge Technology, High End $$$. </br>
 IF drives are Turned-On 24/7, SSD is much more power efficient. </br>
 vs. 3.5" Mechanic HDD. </br>
 HDD require Spin-Down every 30min, </br>
-and each Spin-Up requires 12v 3A-5A Peak. </br>
-Multiple HDDs when Spin-Up all at same time its a very Big Peak load for the PSU. </br>
-Large HDD arrays require 80 Plus Titanium to be cost effective. </br>
-https://en.wikipedia.org/wiki/80_Plus </br>
+each HDD Spin-Up requires 12v 3A-5A Peak. </br>
+Multiple HDDs when Spin-Up at same time its a very Big Peak for the PSU. </br>
+Large HDD arrays require [80 Plus Titanium](https://en.wikipedia.org/wiki/80_Plus#Efficiency_level_certifications) to be cost effective. </br>
 
 IF you spin-down / up too often, will wear and damage everything, the PSU, the HDD motor, power cables if does Not have enough AWG, etc... </br>
 IF you dont spin down HDDs enough time, bearings will wear & fail sooner, will overheat, electronics will fail, etc... </br>
