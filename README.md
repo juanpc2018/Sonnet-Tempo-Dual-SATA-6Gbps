@@ -10,7 +10,6 @@ Original Firmware: [160120_.._.. (2016)](https://www.sonnettech.com/support/down
 older 190... had problems booting with Dosdude OSX Catalina installer, when SSD was installed in 1 machine and moved to another </br>
 installed in: MacMini 2014 and SSD moved to a MacPro 5,1 2010 with latest FW 144.0.0.0.0 </br>
 Original FW had a strange Hiccup with Crucial MX500 2TB SSD. </br>
-Original installer is a FreeDOS compressed .img in a .iso </br>
 
 Upgrade works so far. </br>
 Feels much faster in Windows8.1x64 </br>
@@ -20,6 +19,7 @@ Feels much faster in Windows8.1x64 </br>
 There are Options: </br>
 
 Option A) </br>
+Original installer is a FreeDOS compressed .img in a .iso </br>
 Burn .iso to a CD-R or CD-RW, will Boot OK. </br>
 Remove SSDs Before doing the Upgrade. </br>
 
